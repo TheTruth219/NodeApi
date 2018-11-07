@@ -1,1 +1,1 @@
-{"id":"2ui6n1x6qd5z50f0y2al","userPhone":"2194551367","protocol":"http","url":"google.com","method":"get","successCodes":[200,201],"timeoutSeconds":5,"state":"down","lastChecked":1539896783555}
+{"id":"2ui6n1x6qd5z50f0y2al","userPhone":"2194551367","protocol":"http","url":"yahoo.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":5,"state":"up","lastChecked":1541549938431}
