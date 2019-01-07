@@ -1,5 +1,5 @@
 /*
- * Frontend logic for the application
+ * Front-end logic for the application
  *
  *
  */
