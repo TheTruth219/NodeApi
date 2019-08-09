@@ -9,7 +9,8 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "node ./test/index.js"
+    "test": "NODE_ENV=testing node ./test/index.js",
+    "deploy": "NODE_ENV=production node index.js"
   },
   "repository": {
     "type": "git",

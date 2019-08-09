@@ -1,5 +1,5 @@
 /*
-*Primiary file for API
+* Primary file for API
 *
 */
 
