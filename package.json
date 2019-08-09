@@ -1,0 +1,29 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "an api cli and front-end to help you check your website",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTruth219/NodeApi.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "cli"
+  ],
+  "author": "Stephen Powers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTruth219/NodeApi/issues"
+  },
+  "homepage": "https://github.com/TheTruth219/NodeApi#readme"
+}

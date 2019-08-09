@@ -34,7 +34,7 @@ body,p,h1,h2,h3,h4,h5,h6,div,span,header,footer,img,a,a:hover,a:active,a:visited
   left: 0;
   width: 100%;
   padding: 20px 0;
-  min-width: 1200px;
+
 }
 
 .header ul{
