@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/TheTruth219/NodeApi#readme",
   "engines": {
-    "node": "10.x"
+    "node": "9.x"
   }
   
 }
